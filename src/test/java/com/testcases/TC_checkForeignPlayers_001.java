@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 
 public class TC_checkForeignPlayers_001 extends BaseClass{
 
+	//Test case to check for total no of Indians and Foreign Players
 	@Test
 	public void checkForeignPlayer()
 	{

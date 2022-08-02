@@ -1,6 +1,8 @@
 package com.testcases;
 
 public class Player {
+	
+	//This class is to generate information of each player and store them into ArrayList
 	public int id;
 	public String name;
 	public String country;

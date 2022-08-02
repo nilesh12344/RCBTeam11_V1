@@ -14,6 +14,9 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
 public class BaseClass {
+	
+	//BaseClass Provide utility to read data from json file and store it into ArrayList Object
+	
 	public JSONParser jsonparser = new JSONParser();
 	public List<Player> Teamlist = new ArrayList<Player>();
 	@BeforeClass

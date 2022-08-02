@@ -4,8 +4,8 @@ import org.junit.Assert;
 import org.testng.annotations.Test;
 
 public class TC_CheckWicketKeeper_002 extends BaseClass {
-
 	
+	//Test case to validate there is at least one wicket-keeper
 	@Test
 	public void CheckWicketKeeper()
 	{
