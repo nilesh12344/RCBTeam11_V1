@@ -28,7 +28,7 @@ public class TC_checkForeignPlayers_001 extends BaseClass{
 		ForeignPlayers= totalPlayer-IndianPlayers;
 		System.out.println("No of Indian Players :" + IndianPlayers);
 		System.out.println("No of Foreign Player :"+ ForeignPlayers);
-		if(ForeignPlayers<=4)
+		if(ForeignPlayers==4)
 		{
 			Assert.assertTrue(true);
 		}
