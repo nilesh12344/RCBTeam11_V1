@@ -1,13 +1,12 @@
 # RCBTeam11_V1
 This is the first project version of RBC team selection process.
-Run configuration
+Run configuration:
 1. Export this project file in .zip format
 2. Extract this folder on local machine
 3. Import extracted folder using Eclipse IDE
-4. Update using maven update command
-5. Refresh the project
-6. Run individual test case by selecting testcase from src/test/java right click on TestCase -> run as -> TestNG Test
-7. Run all test cases using testng.xml by right clicking on testng.xml file and run as-> TestNG Suite
+4. Refresh the project
+5. Run individual test case by selecting testcase from src/test/java right click on TestCase -> run as -> TestNG Test
+6. Run all test cases using testng.xml by right clicking on testng.xml file and run as-> TestNG Suite
 
 Project details:
 1. src/test/java - contains all the test cases, BaseClass, User defined class to store details of each player.
