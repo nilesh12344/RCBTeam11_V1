@@ -4,9 +4,10 @@ This is the first project version of RBC team selection process.
 Run configuration:
 1. Export this project file in .zip format
 2. Extract this folder on local machine
-3. Import extracted folder using Eclipse IDE
+3. Import extracted folder using Eclipse IDE:
+  Eclipse->File->Import->General-> Import Project from FOlder or Archive-> Directory->   Select Folder-> Finish.
 4. Refresh the project
-5. Run individual test case by selecting testcase from src/test/java right click on TestCase -> run as -> TestNG Test
+5. Run individual test case by selecting testcase from src/test/java right click on->  TestCase -> run as -> TestNG Test
 6. Run all test cases using testng.xml by right clicking on testng.xml file and run as-> TestNG Suite
 
 Project details:
